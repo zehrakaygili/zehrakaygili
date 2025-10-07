@@ -31,13 +31,16 @@
 ---
 
 ### 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/zehra-kaygili006/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
   </a>
-    <a href="zzehrakaygili@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <a href="mailto:zzehrakaygili@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
   </a>
 </p>
+
 
 
